@@ -1,0 +1,20 @@
+T: IDADE, SALARIO, SUPERIOR_COMPLETO, DEPENDENTES, ATRASOU;
+X: <=30, Alto, Não, Não, Não;
+X: <=30, Alto, Não, Sim, Não;
+X: 31..40, Alto, Não, Não, Sim;
+X:  >40, Médio, Não, Não, Sim;
+X:  >40, Baixo, Sim, Não, Sim;
+X:  >40, Baixo, Sim, Sim, Não;
+X: 31..40, Baixo, Sim, Sim, Sim;
+X: <=30, Médio, Não, Não, Não;
+X: <=30, Baixo, Sim, Sim, Sim;
+X:  >40, Médio, Sim, Não, Sim;
+X: <=30, Médio, Sim, Sim, Sim;
+X: 31..40, Médio, Não, Sim, Sim;
+X: 31..40, Alto, Sim, Não, Sim;
+X:  >40, Médio, Não, Sim, Não;
+
+
+
+
+
